@@ -1,0 +1,103 @@
+.jumbotron{
+    text-align: center;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
+.myslider{
+    margin: auto;
+    /* background-color: lightgray; */
+}
+.slide{
+    margin: 5%;
+}
+.aboutwriteup {
+    text-align: center;
+  
+}
+.myabout{
+    background-color: lightgray;
+}
+.readbutton{
+    color:#ffff;
+    background-color:red ;
+}
+
+.btn{
+    margin: auto;
+    margin-bottom: 5%;
+}
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 54%;
+      
+  }
+.fab{
+    margin:6px;
+  }
+  .socialWrapper {
+    margin: auto;
+    margin-top: px;
+  }
+   /* ################# footer ######################### */
+footer.footsy {
+    background-color:#666;
+    padding-left: 10%;
+  }
+  
+  footer.footsy h1 {
+    color: #fff;
+    font-size: 30px;
+    text-align: left;
+  }
+  
+  footer.footsy ul {
+    color: #fff;
+    list-style: none;
+    text-align: left;
+    padding-left: 0;
+    padding-bottom: 20px ;
+  
+    
+  }
+  footer.footsy ul a {
+    color:red;
+    list-style: none;
+    text-align: left;
+    padding-left: 0;
+    padding-bottom: 20px ;
+  
+    
+  }
+  .abtpg{
+    background-color: silver;
+  }
+  iframe{
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 100%;
+    padding: 0%;
+    margin-right: 0%;
+    border: 0%;
+  }
+ .mycaro{
+   margin: auto;
+  
+ }
+ .productcaro{
+   padding: 10%;
+   background-color: lightslategray;
+ }
+ .carousel-indicators .active{
+  background-color: red;
+}
+.carousel-indicators li{
+  height: 3px !important;
+  border-radius: 0px !important;
+  width: 25%;
+}
